@@ -17,6 +17,16 @@ For this project, six major emitters were selected for detailed analysis:
 
 ---
 
+## 📁 Data Source
+
+This project uses CO₂ emissions data obtained from Our World in Data, a publicly available and regularly updated global environmental dataset.
+
+Link: https://ourworldindata.org/co2-and-greenhouse-gas-emissions
+
+---
+
+---
+
 ## ✅ Project Workflow
 
 1. **Data Preparation**
@@ -219,5 +229,6 @@ jupyter notebook
 This project is under the MIT License.
 
 ---
+
 
 
