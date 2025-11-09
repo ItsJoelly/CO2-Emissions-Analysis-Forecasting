@@ -202,7 +202,7 @@ Here are some of the key visualisations from the analysis:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ItsJoelly/CO2-Emissions-Forecasting
+git clone https://github.com/ItsJoelly/CO2-Emissions-Analysis-Forecasting
 cd CO2-Emissions-Forecasting
 
 # 2. Install required packages
@@ -219,4 +219,5 @@ jupyter notebook
 This project is under the MIT License.
 
 ---
+
 
