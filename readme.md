@@ -130,7 +130,7 @@ Here are some of the key visualisations from the analysis:
 
 * Line chart comparing emissions for all selected countries.
 
-![CO₂ Emissions Over Time](screenshots\plots\CO2-emissions-over-time.png)
+![CO₂ Emissions Over Time](screenshots/plots/CO2-emissions-over-time.png)
 
 ---
 
@@ -138,7 +138,7 @@ Here are some of the key visualisations from the analysis:
 
 * Bar chart showing long-term emission increases or reductions.
 
-![Emissions Percentage Change ](screenshots\plots\percentage-change-in-CO2-emissions.png)
+![Emissions Percentage Change ](screenshots/plots/percentage-change-in-CO2-emissions.png)
 
 ---
 
@@ -149,44 +149,44 @@ Here are some of the key visualisations from the analysis:
 ---
 **United States**
 
-![United States - Exponential Smoothing Forecast](screenshots\exponential-smoothing\united-states-exponential-smoothing.png)
+![United States - Exponential Smoothing Forecast](screenshots/exponential-smoothing/united-states-exponential-smoothing.png)
 
-![United States - Prophet Forecast](screenshots\prophet\united-states-prophet.png)
+![United States - Prophet Forecast](screenshots/prophet/united-states-prophet.png)
 ---
 
 **China**
 
-![China - Exponential Smoothing Forecast](screenshots\exponential-smoothing\china-exponential-smoothing.png)
+![China - Exponential Smoothing Forecast](screenshots/exponential-smoothing/china-exponential-smoothing.png)
 
-![China - Prophet Forecast](screenshots\prophet\china-prophet.png)
+![China - Prophet Forecast](screenshots/prophet/china-prophet.png)
 ---
 
 **India**
 
-![India - Exponential Smoothing Forecast](screenshots\exponential-smoothing\india-exponential-smoothing.png)
+![India - Exponential Smoothing Forecast](screenshots/exponential-smoothing/india-exponential-smoothing.png)
 
-![India - Prophet Forecast](screenshots\prophet\india-prophet.png)
+![India - Prophet Forecast](screenshots/prophet/india-prophet.png)
 ---
 
 **Iran**
 
-![Iran - Exponential Smoothing Forecast](screenshots\exponential-smoothing\iran-exponential-smoothing.png)
+![Iran - Exponential Smoothing Forecast](screenshots/exponential-smoothing/iran-exponential-smoothing.png)
 
-![Iran - Prophet Forecast](screenshots\prophet\iran-prophet.png)
+![Iran - Prophet Forecast](screenshots/prophet/iran-prophet.png)
 ---
 
 **Brazil**
 
-![Brazil - Exponential Smoothing Forecast](screenshots\exponential-smoothing\brazil-exponential-smoothing.png)
+![Brazil - Exponential Smoothing Forecast](screenshots/exponential-smoothing/brazil-exponential-smoothing.png)
 
-![Brazil - Prophet Forecast](screenshots\prophet\brazil-prophet.png)
+![Brazil - Prophet Forecast](screenshots/prophet/brazil-prophet.png)
 ---
 
 **United Kingdom**
 
-![United Kingdom - Exponential Smoothing Forecast](screenshots\exponential-smoothing\united-kingdom-exponential-smoothing.png)
+![United Kingdom - Exponential Smoothing Forecast](screenshots/exponential-smoothing/united-kingdom-exponential-smoothing.png)
 
-![United Kingdom - Prophet Forecast](screenshots\prophet\united-kingdom-prophet.png)
+![United Kingdom - Prophet Forecast](screenshots/prophet/united-kingdom-prophet.png)
 ---
 
 
@@ -219,3 +219,4 @@ jupyter notebook
 This project is under the MIT License.
 
 ---
+
